@@ -1,4 +1,4 @@
-# PHP-I-O-trabalhando-com-arquivos-e-streams
+# PHP I/O: trabalhando com arquivos e streams
 
 # 📂 Curso: PHP - Entrada e Saída, Arquivos e Streams
 
