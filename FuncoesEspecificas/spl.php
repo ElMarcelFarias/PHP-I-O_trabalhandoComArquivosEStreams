@@ -5,7 +5,7 @@ $arquivoCursos = new SplFileObject('cursos-spl.csv', 'r');
 while (!$arquivoCursos->feof()) {
     $linha = $arquivoCursos->fgetcsv();
 
-    echo $linha[0] . PHP_EOL;
+    echo utf8_encode($linha[0]) . PHP_EOL;
     
 }
 
